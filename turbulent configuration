@@ -1,0 +1,3 @@
+1. the pressure b.c is set to be Neumann for turbulence inlet
+2. only one velocity b.c is set to be non-zero for turbulent inlet
+3. all b.c are sets to be Neumann for the opposite face of turbulent inlet
