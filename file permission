@@ -8,3 +8,5 @@ x: executable
 
 Copy a file:
 cp ../test1/bluebottle  .
+
+--partition=tesla
