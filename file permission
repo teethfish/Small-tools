@@ -5,3 +5,6 @@ change the file permission, using chmod +x filename
 r: readable
 w: writable
 x: executable
+
+Copy a file:
+cp ../test1/bluebottle  .
