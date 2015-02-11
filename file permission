@@ -1,7 +1,7 @@
 When running a .sh file, sometimes it reports that permission denies.
 
 check the file permission, using ls -al XXX
-change the file permission, using chomd -x filename
+change the file permission, using chmod +x filename
 r: readable
 w: writable
 x: executable
